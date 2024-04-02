@@ -98,19 +98,19 @@ input[type="number"]::-webkit-outer-spin-button {
 
 @font-face {
   font-family: Gilroy-Bold;
-  src: url(/ASSIGNMENT-2/fonts/gilroy/Gilroy-Bold.ttf);
+  src: url(../fonts/gilroy/Gilroy-Bold.ttf);
 }
 @font-face {
   font-family: Gilroy-Medium;
-  src: url(/ASSIGNMENT-2/fonts/gilroy/Gilroy-Medium.ttf);
+  src: url(../fonts/gilroy/Gilroy-Medium.ttf);
 }
 @font-face {
   font-family: Gilroy-SemiBold;
-  src: url(/ASSIGNMENT-2/fonts/gilroy/Gilroy-SemiBold.ttf);
+  src: url(../fonts/gilroy/Gilroy-SemiBold.ttf);
 }
 @font-face {
   font-family: Roboto-Regular;
-  src: url(/ASSIGNMENT-2/fonts/Roboto/Roboto-Regular.ttf);
+  src: url(../fonts/Roboto/Roboto-Regular.ttf);
 }
 
 header {
